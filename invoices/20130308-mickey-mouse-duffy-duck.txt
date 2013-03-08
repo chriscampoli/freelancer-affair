@@ -1,0 +1,4 @@
+Price: 150 €
+Client: Duffy Duck - 092832323
+Freelancer: Mickey Mouse - 123456789
+Today is Friday

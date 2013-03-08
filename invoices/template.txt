@@ -1,0 +1,4 @@
+Price: <amount> €
+Client: <client_name> - <client_vat>
+Freelancer: <freelancer_name> - <freelancer_vat>
+Today is <weekday>
